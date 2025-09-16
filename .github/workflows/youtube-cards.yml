@@ -1,0 +1,26 @@
+name: 🎬 Update YouTube Cards
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # обновление каждый час
+  workflow_dispatch:       # запуск вручную из GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate YouTube Cards
+        uses: DenverCoder1/github-readme-youtube-cards@v2
+        with:
+          channel_id: UC91g0nUytzMbjLxE6OBQiyQ
+          show_duration: true
+          card_width: 250
+          max_title_lines: 1
+          background_color: '#0d1117'
+          title_color: '#ffffff'
+          stats_color: '#dedede'
+          border_radius: 5
+          output_file: README.md
