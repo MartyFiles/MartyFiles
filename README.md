@@ -1,4 +1,4 @@
-# 🖥️ MartyFiles
+# MartyFiles
 
 **`Создатель цифрового контента (Разработчик/Блогер/Креатор)`**
 
@@ -20,9 +20,9 @@
 </p>
 
 
----
+#
 
-### 🧰 Навыки
+### Навыки
 
 <img align="left" alt="Batch" width="32px" src="https://cdn-icons-png.flaticon.com/512/11743/11743804.png" />
 <img align="left" alt="C#" width="30px" src="https://cdn-icons-png.flaticon.com/512/9083/9083011.png" />
@@ -34,7 +34,7 @@
 
 #
 
-### 📺 Последние видео
+### Последние видео
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Windows Pro vs LTSC vs IoT — разоблачение популярного мифа](https://ytcards.demolab.com/?id=LiS52GY8jzc&title=Windows+Pro+vs+LTSC+vs+IoT+%E2%80%94+%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BC%D0%B8%D1%84%D0%B0&lang=ru&timestamp=1757754018&background_color=%23191919&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5 "Windows Pro vs LTSC vs IoT — разоблачение популярного мифа")](https://www.youtube.com/watch?v=LiS52GY8jzc)
@@ -50,7 +50,7 @@
 
 #
 
-### 🍵 Донаты
+### Донаты
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/martyfiles)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/martyfiles)
