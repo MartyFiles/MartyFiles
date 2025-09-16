@@ -18,8 +18,9 @@ jobs:
           channel_id: UC91g0nUytzMbjLxE6OBQiyQ
           card_width: 250
           max_title_lines: 1
-          background_color: '#0d1117'
+          background_color: '#191919'
           title_color: '#ffffff'
           stats_color: '#dedede'
           border_radius: 5
+          lang: ru
           readme_path: README.md  # ✅ Вместо output_file
