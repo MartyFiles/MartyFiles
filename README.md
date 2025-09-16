@@ -45,7 +45,7 @@
 [![Обзор Aiyima S400 – когда нет денег на Kanto](https://ytcards.demolab.com/?id=K8244Y3dZYk&title=%D0%9E%D0%B1%D0%B7%D0%BE%D1%80+Aiyima+S400+%E2%80%93+%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BD%D0%B5%D1%82+%D0%B4%D0%B5%D0%BD%D0%B5%D0%B3+%D0%BD%D0%B0+Kanto&lang=en&timestamp=1754730009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Обзор Aiyima S400 – когда нет денег на Kanto")](https://www.youtube.com/watch?v=K8244Y3dZYk)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Подпишись%20чтобы ничего не%20пропустить-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/martyfiles?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Все видео тут-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/martyfiles?sub_confirmation=1)
 
 
 #
