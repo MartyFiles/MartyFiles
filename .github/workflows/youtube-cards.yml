@@ -17,7 +17,7 @@ jobs:
         with:
           channel_id: UC91g0nUytzMbjLxE6OBQiyQ
           card_width: 250
-          max_title_lines: 1
+          max_title_lines: 3
           background_color: '#191919'
           title_color: '#ffffff'
           stats_color: '#dedede'
