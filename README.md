@@ -1,12 +1,10 @@
-<div align="center">
-
 # MartyFiles
 
 **`Цифровой ремесленник (Разработчик/Блогер/Креатор)`**
 
 Компьютерный энтузиаст, создающий полезные мини-утилиты для настройки и оптимизации Windows. Люблю качественный, красивый, функциональный и портативный софт. Делюсь своими находками, проектами, и рекомендациями через [YouTube][youtube] и [Telegram][telegram] каналы. Регулярно публикую обзоры на периферию, девайсы и интересные гаджеты.
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/c/martyfiles?sub_confirmation=1">
     <img 
       alt="Подписчики YouTube" 
@@ -26,12 +24,12 @@
 
 ### Навыки
 
-<img align="center" alt="Batch" width="32px" src="https://cdn-icons-png.flaticon.com/512/11743/11743804.png" />
-<img align="center" alt="C#" width="30px" src="https://cdn-icons-png.flaticon.com/512/9083/9083011.png" />
-<img align="center" alt="Photoshop" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" />
-<img align="center" alt="Premiere Pro" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />
-<img align="center" alt="Audition" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968442.png" />
-<img align="center" alt="After Effects" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
+<img align="left" alt="Batch" width="32px" src="https://cdn-icons-png.flaticon.com/512/11743/11743804.png" />
+<img align="left" alt="C#" width="30px" src="https://cdn-icons-png.flaticon.com/512/9083/9083011.png" />
+<img align="left" alt="Photoshop" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" />
+<img align="left" alt="Premiere Pro" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />
+<img align="left" alt="Audition" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968442.png" />
+<img align="left" alt="After Effects" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
 <br />
 
 #
@@ -59,4 +57,3 @@
 [youtube]: https://youtube.com/martyfiles  
 [telegram]: https://t.me/martyfiles
 
-</div>
