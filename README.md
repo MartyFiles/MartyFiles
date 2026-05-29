@@ -23,13 +23,17 @@
 #
 
 ### Навыки
-
-<img align="left" alt="Batch" width="32px" src="https://cdn-icons-png.flaticon.com/512/11743/11743804.png" />
-<img align="left" alt="C#" width="30px" src="https://cdn-icons-png.flaticon.com/512/9083/9083011.png" />
-<img align="left" alt="Photoshop" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" />
-<img align="left" alt="Premiere Pro" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />
-<img align="left" alt="Audition" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968442.png" />
-<img align="left" alt="After Effects" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
+<img align="left" alt="AI" width="32px" src="https://i.ibb.co/Myq5s0hJ/AI.png" />
+<img align="left" alt="WEB" width="32px" src="https://i.ibb.co/b5kyVvHr/WEB.png" />
+<img align="left" alt="PowerShell" width="32px" src="https://i.ibb.co/tMxMZQVF/Power-Shell.png" />
+<img align="left" alt="CMD" width="32px" src="https://i.ibb.co/mVjcm9Lq/CMD.png" />
+<img align="left" alt="C#" width="32px" src="https://i.ibb.co/zT3S7QhX/C.png" />
+<img align="left" alt="Photoshop" width="32px" src="https://i.ibb.co/BKnRJPgS/Photoshop.png" />
+<img align="left" alt="Premiere Pro" width="32px" src="https://i.ibb.co/0yCK5rMh/Premiere-Pro.png" />
+<img align="left" alt="Audition" width="32px" src="https://i.ibb.co/4wvcfxg9/Audition.png" />
+<img align="left" alt="After Effects" width="32px" src="https://i.ibb.co/MxQtG4Qv/After-Effects.png" />
+<img align="left" alt="Android" width="32px" src="https://i.ibb.co/My3m0HjN/Android.png" />
+<img align="left" alt="Windows" width="32px" src="https://i.ibb.co/KjTkcV9R/Windows.png" />
 <br />
 
 #
