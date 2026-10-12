@@ -60,9 +60,28 @@
 
 ### Донаты
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/martyfiles)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/martyfiles)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tribute/app?startapp=dg3u)
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/martyfiles">
+    <img
+      alt="Buy Me a Coffee"
+      title="Поддержать на Buy Me a Coffee"
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00&color=FFDD00&labelWidth=0&height=35" />
+  </a>
+  <a href="https://ko-fi.com/martyfiles">
+    <img
+      alt="Ko-fi"
+      title="Поддержать на Ko-fi"
+      src="https://img.shields.io/badge/Ko--fi-29ABE0?style=flat&logo=ko-fi&logoColor=white&labelColor=29ABE0&color=29ABE0&labelWidth=0&height=35" />
+  </a>
+  <a href="https://t.me/tribute/app?startapp=dg3u">
+    <img
+      alt="Telegram"
+      title="Поддержать через Telegram"
+      src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&labelColor=26A5E4&color=26A5E4&labelWidth=0&height=35" />
+  </a>
+</p>
+
 
 
 [youtube]: https://youtube.com/martyfiles  
