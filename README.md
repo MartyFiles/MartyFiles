@@ -4,20 +4,27 @@
 
 Компьютерный энтузиаст, создающий полезные мини-утилиты для настройки и оптимизации Windows. Люблю качественный, красивый, функциональный и портативный софт. Делюсь своими находками, проектами, и рекомендациями через [YouTube][youtube] и [Telegram][telegram] каналы. Регулярно публикую обзоры на периферию, девайсы и интересные гаджеты.
 
+
+
+
+
 <p align="left">
   <a href="https://www.youtube.com/c/martyfiles?sub_confirmation=1">
-    <img 
-      alt="Подписчики YouTube" 
-      title="Подпишись на канал MartyFiles" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC91g0nUytzMbjLxE6OBQiyQ?color=%23E05D44&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&logo=video&logoColor=white&style=for-the-badge&labelColor=%23CE4630" />
+    <img
+      alt="Подписчики YouTube"
+      title="Подпишись на канал MartyFiles"
+      src="https://shieldcn.dev/youtube/subscribers/UC91g0nUytzMbjLxE6OBQiyQ.svg?color=CE4630&labelColor=CE4630&label=Подписчики&logo=youtube&logoColor=white&variant=branded" />
   </a>
   <a href="https://www.youtube.com/c/martyfiles">
-    <img 
-      alt="Просмотры YouTube" 
-      title="Просмотры канала MartyFiles" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC91g0nUytzMbjLxE6OBQiyQ?color=%23E1AD0E&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&logo=eye&logoColor=white&style=for-the-badge&labelColor=%23C79600" />
+    <img
+      alt="Просмотры YouTube"
+      title="Просмотры канала MartyFiles"
+      src="https://shieldcn.dev/youtube/channel-views/UC91g0nUytzMbjLxE6OBQiyQ.svg?color=C79600&labelColor=C79600&label=Просмотры&logo=youtube&logoColor=white&variant=branded" />
   </a>
 </p>
+
+
+
 
 
 #
