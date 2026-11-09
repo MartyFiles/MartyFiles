@@ -29,19 +29,36 @@
 
 #
 
-### Навыки
-<img align="left" alt="AI" width="32px" src="https://i.ibb.co/Myq5s0hJ/AI.png" />
-<img align="left" alt="WEB" width="32px" src="https://i.ibb.co/b5kyVvHr/WEB.png" />
-<img align="left" alt="PowerShell" width="32px" src="https://i.ibb.co/tMxMZQVF/Power-Shell.png" />
-<img align="left" alt="CMD" width="32px" src="https://i.ibb.co/mVjcm9Lq/CMD.png" />
-<img align="left" alt="C#" width="32px" src="https://i.ibb.co/zT3S7QhX/C.png" />
-<img align="left" alt="Photoshop" width="32px" src="https://i.ibb.co/BKnRJPgS/Photoshop.png" />
-<img align="left" alt="Premiere Pro" width="32px" src="https://i.ibb.co/0yCK5rMh/Premiere-Pro.png" />
-<img align="left" alt="Audition" width="32px" src="https://i.ibb.co/4wvcfxg9/Audition.png" />
-<img align="left" alt="After Effects" width="32px" src="https://i.ibb.co/MxQtG4Qv/After-Effects.png" />
-<img align="left" alt="Android" width="32px" src="https://i.ibb.co/My3m0HjN/Android.png" />
-<img align="left" alt="Windows" width="32px" src="https://i.ibb.co/KjTkcV9R/Windows.png" />
-<br />
+### Программы
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MartyFiles/AutoRun"><img width="32" src="https://camo.githubusercontent.com/e4a50351f9c52e4fa46cac8221a5e9c572788966ac92dec4561a44828956d84d/68747470733a2f2f692e6962622e636f2f706a786a7273345a2f322e706e67" alt="AutoRun"></a>
+      <br>AutoRun
+    </td>
+    <td align="center">
+      <a href="https://github.com/MartyFiles/FFToolBox"><img width="32" src="https://camo.githubusercontent.com/f5608b103ff9286530ad11bb9b7467268ce92e8de73155fb72712bddc0f9ee44/68747470733a2f2f692e6962622e636f2f53775637327670382f4646546f6f6c2d426f782d49636f6e2d636f6e762e706e67" alt="FFToolBox"></a>
+      <br>FFToolBox
+    </td>
+    <td align="center">
+      <a href="https://github.com/MartyFiles/AutoCopy"><img width="32" src="https://camo.githubusercontent.com/372a9934cf66d94e8912830ed3eeb43854e13277872dc45a4e56c7c6aa8dc6fa/68747470733a2f2f692e6962622e636f2f5234516e70596d352f4175746f2d436f70792d636f6e762e706e67" alt="AutoCopy"></a>
+      <br>AutoCopy
+    </td>
+    <td align="center">
+      <a href="https://github.com/MartyFiles/YTDownloader"><img width="32" src="https://camo.githubusercontent.com/2735262e5373cd7926d9aa0dbaee90347ddbe8336a54024ab31f0e32d4055d51/68747470733a2f2f692e6962622e636f2f3233746770386b6d2f6179676f792d7866626d722d3030312e706e67" alt="YTDownloader"></a>
+      <br>YTDownloader
+    </td>
+    <td align="center">
+      <a href="https://github.com/MartyFiles/Hoster"><img width="32" src="https://camo.githubusercontent.com/6b97961342c1cb57e0956e37203f32aedc3e10aa3868b8c13fbed4d3e88d27ff/68747470733a2f2f692e6962622e636f2f5444525a627959522f484f5354532d636f70792e706e67" alt="Hoster"></a>
+      <br>Hoster
+    </td>
+    <td align="center">
+      <a href="https://github.com/MartyFiles/IMResizer"><img width="32" src="https://camo.githubusercontent.com/8a7c4b2ee5ca5183c582de76141476c16bffb0f96141910a54adcf6f44726fbc/68747470733a2f2f692e6962622e636f2f4d354a37784344762f312e706e67" alt="IMGToolBox"></a>
+      <br>IMGToolBox
+    </td>
+  </tr>
+</table>
 
 #
 
