@@ -54,7 +54,7 @@
       <br>Hoster
     </td>
     <td align="center">
-      <a href="https://github.com/MartyFiles/IMResizer"><img width="32" src="https://camo.githubusercontent.com/8a7c4b2ee5ca5183c582de76141476c16bffb0f96141910a54adcf6f44726fbc/68747470733a2f2f692e6962622e636f2f4d354a37784344762f312e706e67" alt="IMGToolBox"></a>
+      <a href="https://github.com/MartyFiles/IMGToolBox"><img width="32" src="https://camo.githubusercontent.com/8a7c4b2ee5ca5183c582de76141476c16bffb0f96141910a54adcf6f44726fbc/68747470733a2f2f692e6962622e636f2f4d354a37784344762f312e706e67" alt="IMGToolBox"></a>
       <br>IMGToolBox
     </td>
   </tr>
