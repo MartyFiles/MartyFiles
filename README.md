@@ -48,6 +48,9 @@
     <td align="center">
       <a href="https://github.com/MartyFiles/IMGToolBox"><img width="32" src="https://i.ibb.co/Df2cxtyq/apwta-s0d7a-001.png" alt="IMGToolBox"></a>
       <br>IMGToolBox
+    <td align="center">
+      <a href="https://github.com/MartyFiles/Chromate"><img width="32" src="https://i.ibb.co/ccDq4KVb/Chromate-conv.png" alt="Hoster"></a>
+      <br>Chromate
     </td>
   </tr>
 </table>
